@@ -24,7 +24,7 @@ Comecei minha jornada na programação em 2024, explorando linguagens de baixo n
 ## Contato
 
 <div> 
-  <a href="www.linkedin.com/in/luiz-paulo-607279302" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-paulo-607279302" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="mailto:unfragor@gmail.com">
